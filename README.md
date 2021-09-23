@@ -5,7 +5,7 @@ Some foolery with the Collatz conjecture
 
 ### possible uses
 Messing around with key generation;
-k0 = abs_sum(series), k1 = k0/n in series
+k0 = sum(|series|), k1 = k0/n in series
 
 This could be solved with the pre-value, but verification is kind of non-existant
 
